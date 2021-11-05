@@ -1,5 +1,5 @@
 MULTIPLE LINEAR REGRESSION - BACKWARD ELIMINATION
 https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0
 
-Backward Elimination is irrelevant in Python, because the Scikit-Learn library automatically takes care of selecting the statistically significant features when training the model to make accurate predictions.
-Just keep this for this Backward Elimination implementation, but keep in mind that in general you don't have to remove manually a dummy variable column because Scikit-Learn takes care of it.
+Backward Elimination is irrelevant in Python, because the Scikit-Learn library automatically takes care of selecting the statistically significant features when 
+training the model to make accurate predictions. In general you don't have to remove manually a dummy variable column because Scikit-Learn takes care of it.
