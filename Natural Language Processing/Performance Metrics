@@ -1,4 +1,4 @@
-Performance Metrics
+Performance Metrics Include -
 
 Accuracy = (TP + TN) / (TP + TN + FP + FN)
 Precision(measuring exactness) = TP / (TP + FP)
